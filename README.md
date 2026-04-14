@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 # Hi! I'm Doggo (sleepydoggo-dev on GitHub)
 
-🔭 I'm currently working on a little platform videogame
+🔭 I'm currently working on a little visual novel game about "The Bethrothed"
 🌱 I'm currently learning Java
 🤔 I'm looking for help with learning videogame developement (Godot Engine rn)
