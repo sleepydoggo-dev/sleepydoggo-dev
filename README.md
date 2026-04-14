@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **sleepydoggo-dev/sleepydoggo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi! I'm Doggo (sleepydoggo-dev on GitHub)
+
+🔭 I'm currently working on a little platform videogame
+🌱 I'm currently learning Java
+🤔 I'm looking for help with learning videogame developement (Godot Engine rn)
